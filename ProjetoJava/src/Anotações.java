@@ -12,3 +12,11 @@
 // Ver "ResultadoEscolar.java" novamente
 // else if -> SEPARADO em Java
 
+// Condição Ternária
+// Simplificação
+// Já vimos antes no curso
+// Estrutura:
+// Tipo variável = resultado1 condição1 ? : condição2
+// Ou, com else if, do ResultadoEscolar:
+// String resultado = nota >= 7 ? "aprovado"
+//: nota >=5 && nota <7 "rec" : "Reprovado";
