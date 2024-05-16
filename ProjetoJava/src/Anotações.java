@@ -7,3 +7,8 @@
 // Particularidades -> Condição entre "()"
 // Se o if tiver mais de uma instrução, ele deve ser separado por um bloco de "{}"
 
+// Condicionais Encadeadas
+// Mais condições
+// Ver "ResultadoEscolar.java" novamente
+// else if -> SEPARADO em Java
+
