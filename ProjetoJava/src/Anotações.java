@@ -20,3 +20,7 @@
 // Ou, com else if, do ResultadoEscolar:
 // String resultado = nota >= 7 ? "aprovado"
 //: nota >=5 && nota <7 "rec" : "Reprovado";
+
+// Switch Case
+// Comparação de medidas
+// Exemplo em "SistemaMedida.java"
