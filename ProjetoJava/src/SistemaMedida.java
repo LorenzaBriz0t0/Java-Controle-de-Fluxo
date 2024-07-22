@@ -20,17 +20,17 @@ public class SistemaMedida {
         // Com Switch case:
         String sigla = "M";
         switch ( sigla ) {
-            case "P" : {System.out.prinln("PEQUENO");
+            case "P" : {System.out.println("PEQUENO");
             break;
         }
             case "M" : {System.out.println("MÉDIO");
             break;
         }
-            case "G" ; {System.out.prinln("GRANDE");
+            case "G" : {System.out.println("GRANDE");
             break;
         }
 
-        default;
+        default :
         System.out.println("INDEFINIDO");
     } // Fecha o Switch
 
