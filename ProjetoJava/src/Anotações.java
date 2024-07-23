@@ -43,6 +43,13 @@
 // Break quebra o loop, Continue pula pra próxima iteração, igual em outras linguagens
 // Ver exemplo em "ExemploBreakContinue.java"
 
+// While
+// Testa a condição antes de executar o código
+// while (expressão booleana de validação){
+    //comando que será executado até a condição ser falsa
+//}
+// Ver exemplo em "ExemploWhile.java"
+
 
 
 
