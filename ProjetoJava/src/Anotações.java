@@ -39,6 +39,10 @@
 // Arrays iniciam em 0, obrigatoriamente
 // for/each
 
+// Break and Continue
+// Break quebra o loop, Continue pula pra próxima iteração, igual em outras linguagens
+// Ver exemplo em "ExemploBreakContinue.java"
+
 
 
 
