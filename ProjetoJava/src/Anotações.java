@@ -32,6 +32,12 @@
     //comando que será executado até que a expressão de validação se torne falsa
 //}
 
+// For em Arrays
+// Exemplo em "ExemploForArray.java"
+// Para declarar arrays
+// String arrayQualquer[] = {"Primeiro Elemento","Segundo Elemento"};
+// Arrays iniciam em 0, obrigatoriamente
+// for/each
 
 
 
